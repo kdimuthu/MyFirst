@@ -20,7 +20,7 @@ public class Calender
 		driver.get("http://www.mytutor.lk/");			
 	}	
 
-//Doing a change to the script so that i can test the checking the edited code to git hub
+//test Doing a change to the script so that i can test the checking the edited code to git hub
 
 @Test
 public void SelectCalenderValue() 
