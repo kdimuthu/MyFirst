@@ -27,6 +27,8 @@ public void SelectCalenderValue()
 {   
 	//value has been selected directly from calender box by using the xpath of a particular date
 	
+	//Creating a branch
+	
 	driver.findElement(By.xpath("//div[@id='top-header']/div/nav[2]/ul/li[2]/a/strong")).click();
 	driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 	driver.findElement(By.xpath("//input[@id='email' and @name='email']")).sendKeys("Dimramanayaka4@gmail.com");
