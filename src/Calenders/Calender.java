@@ -12,7 +12,7 @@ import org.testng.annotations.BeforeTest;
 public class Calender
 {	
 	WebDriver driver=new FirefoxDriver();
-	
+	//this is to test the branches
 @BeforeTest
 	public void openBrower() 
 	{	
