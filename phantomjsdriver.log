@@ -1,0 +1,175 @@
+[INFO  - 2017-06-15T15:57:36.251Z] GhostDriver - Main - running on port 25114
+[INFO  - 2017-06-15T15:57:37.127Z] Session [5a3861c0-51e3-11e7-94c4-435a7c96db13] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-06-15T15:57:37.127Z] Session [5a3861c0-51e3-11e7-94c4-435a7c96db13] - page.customHeaders:  - {}
+[INFO  - 2017-06-15T15:57:37.127Z] Session [5a3861c0-51e3-11e7-94c4-435a7c96db13] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-06-15T15:57:37.128Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 5a3861c0-51e3-11e7-94c4-435a7c96db13
+[ERROR - 2017-06-15T15:57:54.673Z] Session [5a3861c0-51e3-11e7-94c4-435a7c96db13] - page.onError - msg: ReferenceError: Can't find variable: jQuery
+[ERROR - 2017-06-15T15:57:54.673Z] Session [5a3861c0-51e3-11e7-94c4-435a7c96db13] - page.onError - stack:
+  global code (http://www.mytutor.lk/fancybox/jquery.fancybox.js:2020)
+[ERROR - 2017-06-15T16:00:25.032Z] Session [5a3861c0-51e3-11e7-94c4-435a7c96db13] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$("#form-reg").validationEngine( )')
+[ERROR - 2017-06-15T16:00:25.032Z] Session [5a3861c0-51e3-11e7-94c4-435a7c96db13] - page.onError - stack:
+  (anonymous function) (http://www.mytutor.lk/user_home.php:46)
+  j (http://www.mytutor.lk/js/jquery-1.11.0.min.js:2)
+  fireWith (http://www.mytutor.lk/js/jquery-1.11.0.min.js:2)
+  ready (http://www.mytutor.lk/js/jquery-1.11.0.min.js:2)
+  K (http://www.mytutor.lk/js/jquery-1.11.0.min.js:2)
+[INFO  - 2017-06-15T16:02:36.225Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:07:36.231Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:12:36.232Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:17:36.242Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:22:36.254Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:27:36.253Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:32:36.297Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:37:36.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:42:36.322Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:47:36.385Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:52:36.395Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:57:36.438Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+efe5c60-51e4-11e7-b4cc-f7f21da81bce] - page.onError - stack:
+  global code (http://www.mytutor.lk/fancybox/jquery.fancybox.js:2020)
+[ERROR - 2017-06-15T16:05:31.970Z] Session [3efe5c60-51e4-11e7-b4cc-f7f21da81bce] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$("#form-reg").validationEngine( )')
+[ERROR - 2017-06-15T16:05:31.970Z] Session [3efe5c60-51e4-11e7-b4cc-f7f21da81bce] - page.onError - stack:
+  (anonymous function) (http://www.mytutor.lk/user_home.php:46)
+  j (http://www.mytutor.lk/js/jquery-1.11.0.min.js:2)
+  fireWith (http://www.mytutor.lk/js/jquery-1.11.0.min.js:2)
+  ready (http://www.mytutor.lk/js/jquery-1.11.0.min.js:2)
+  K (http://www.mytutor.lk/js/jquery-1.11.0.min.js:2)
+[INFO  - 2017-06-15T16:09:00.306Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:14:00.319Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:19:00.331Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:24:00.378Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:29:00.389Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:34:00.408Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:39:00.417Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:44:00.461Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:49:00.487Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:54:00.486Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:59:00.501Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+585eb60-51e4-11e7-a3f1-adc5f9ce7226] - page.onError - stack:
+  global code (http://www.mytutor.lk/fancybox/jquery.fancybox.js:2020)
+[ERROR - 2017-06-15T16:09:41.616Z] Session [a585eb60-51e4-11e7-a3f1-adc5f9ce7226] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$("#form-reg").validationEngine( )')
+[ERROR - 2017-06-15T16:09:41.617Z] Session [a585eb60-51e4-11e7-a3f1-adc5f9ce7226] - page.onError - stack:
+  (anonymous function) (http://www.mytutor.lk/user_home.php:46)
+  j (http://www.mytutor.lk/js/jquery-1.11.0.min.js:2)
+  fireWith (http://www.mytutor.lk/js/jquery-1.11.0.min.js:2)
+  ready (http://www.mytutor.lk/js/jquery-1.11.0.min.js:2)
+  K (http://www.mytutor.lk/js/jquery-1.11.0.min.js:2)
+[INFO  - 2017-06-15T16:11:52.341Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:16:52.356Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:21:52.368Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:26:52.414Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:31:52.433Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:36:52.470Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:41:52.528Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:46:52.499Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:51:52.554Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:56:52.527Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+1e5-11e7-9e51-29a8af384195] - page.onError - msg: ReferenceError: Can't find variable: jQuery
+[ERROR - 2017-06-15T16:11:02.733Z] Session [28feb030-51e5-11e7-9e51-29a8af384195] - page.onError - stack:
+  global code (http://www.mytutor.lk/fancybox/jquery.fancybox.js:2020)
+[ERROR - 2017-06-15T16:12:35.512Z] Session [28feb030-51e5-11e7-9e51-29a8af384195] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$("#form-reg").validationEngine( )')
+[ERROR - 2017-06-15T16:12:35.512Z] Session [28feb030-51e5-11e7-9e51-29a8af384195] - page.onError - stack:
+  (anonymous function) (http://www.mytutor.lk/user_home.php:46)
+  j (http://www.mytutor.lk/js/jquery-1.11.0.min.js:2)
+  fireWith (http://www.mytutor.lk/js/jquery-1.11.0.min.js:2)
+  ready (http://www.mytutor.lk/js/jquery-1.11.0.min.js:2)
+  K (http://www.mytutor.lk/js/jquery-1.11.0.min.js:2)
+[INFO  - 2017-06-15T16:15:32.274Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:20:32.285Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:25:32.299Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:30:32.345Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:35:32.357Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:40:32.369Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:45:32.383Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:50:32.430Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-15T16:55:32.441Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T06:22:42.686Z] GhostDriver - Main - running on port 28760
+[INFO  - 2017-06-16T06:22:43.054Z] Session [34910e80-525c-11e7-bdc0-c15b5dfff264] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-06-16T06:22:43.054Z] Session [34910e80-525c-11e7-bdc0-c15b5dfff264] - page.customHeaders:  - {}
+[INFO  - 2017-06-16T06:22:43.054Z] Session [34910e80-525c-11e7-bdc0-c15b5dfff264] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-06-16T06:22:43.055Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 34910e80-525c-11e7-bdc0-c15b5dfff264
+[ERROR - 2017-06-16T06:22:47.755Z] Session [34910e80-525c-11e7-bdc0-c15b5dfff264] - page.onError - msg: ReferenceError: Can't find variable: jQuery
+[ERROR - 2017-06-16T06:22:47.756Z] Session [34910e80-525c-11e7-bdc0-c15b5dfff264] - page.onError - stack:
+  global code (http://www.mytutor.lk/fancybox/jquery.fancybox.js:2020)
+[ERROR - 2017-06-16T06:23:07.417Z] Session [34910e80-525c-11e7-bdc0-c15b5dfff264] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$("#form-reg").validationEngine( )')
+[ERROR - 2017-06-16T06:23:07.418Z] Session [34910e80-525c-11e7-bdc0-c15b5dfff264] - page.onError - stack:
+  (anonymous function) (http://www.mytutor.lk/user_home.php:46)
+  j (http://www.mytutor.lk/js/jquery-1.11.0.min.js:2)
+  fireWith (http://www.mytutor.lk/js/jquery-1.11.0.min.js:2)
+  ready (http://www.mytutor.lk/js/jquery-1.11.0.min.js:2)
+  K (http://www.mytutor.lk/js/jquery-1.11.0.min.js:2)
+[INFO  - 2017-06-16T06:27:42.689Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T06:32:42.693Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T06:37:42.694Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T06:42:42.740Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T06:47:42.740Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T06:52:43.111Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T06:57:42.781Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T07:02:42.792Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T07:07:42.781Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T07:12:42.782Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T07:17:42.787Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T07:22:42.826Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T07:27:42.840Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T07:32:42.935Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T07:37:42.876Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T07:42:42.919Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T07:47:42.950Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T07:52:42.974Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T07:57:42.982Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T08:02:43.029Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T08:07:43.071Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T08:12:43.071Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T08:17:43.673Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T08:22:43.123Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T08:43:43.754Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T08:48:43.542Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T08:53:43.418Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T08:58:43.370Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T09:03:43.451Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T09:08:43.390Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T09:13:43.390Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T09:18:43.425Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T09:23:43.453Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T09:28:43.460Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T09:33:43.478Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T09:38:43.484Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T09:43:43.466Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T09:48:43.633Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T09:53:43.507Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T09:58:43.541Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T10:03:43.569Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T10:08:43.593Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T10:13:43.596Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T10:18:43.597Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T10:23:43.599Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T10:28:43.636Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T10:33:43.639Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T10:38:43.674Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T10:43:43.676Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T10:48:43.721Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T10:53:43.728Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T10:58:43.772Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T11:03:43.785Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T11:08:43.786Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T11:13:43.934Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T11:18:43.807Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T11:23:43.820Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T11:28:44.233Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T11:33:43.877Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+essions clean-up phase starting NOW
+[INFO  - 2017-06-16T10:23:43.649Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T10:28:43.655Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T10:33:43.657Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T10:38:43.690Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T10:43:43.741Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T10:48:43.744Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T10:53:43.745Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T10:58:43.780Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T11:03:43.786Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T11:08:43.838Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T11:13:43.798Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T11:18:43.807Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T11:23:43.819Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T11:28:43.907Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-06-16T11:33:43.876Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
